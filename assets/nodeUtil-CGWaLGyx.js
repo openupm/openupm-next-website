@@ -1,0 +1,1 @@
+import{d as e}from"./app-BkR7hyOa.js";function t(e){return function(t){return e(t)}}var n=typeof exports==`object`&&exports&&!exports.nodeType&&exports,r=n&&typeof module==`object`&&module&&!module.nodeType&&module,i=r&&r.exports===n&&e.process,a=function(){try{return r&&r.require&&r.require(`util`).types||i&&i.binding&&i.binding(`util`)}catch{}}();export{t as n,a as t};

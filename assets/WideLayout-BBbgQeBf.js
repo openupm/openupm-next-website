@@ -1,0 +1,1 @@
+import{Ct as e,Ft as t,Ht as n,It as r,Pt as i,Tt as a,en as o,gt as s,in as c,t as l,yt as u}from"./app-BkR7hyOa.js";var d=e({__name:`WideLayout`,setup(e){return(e,c)=>(i(),s(l,{class:`wide-layout`},u({_:2},[t(e.$slots,(t,i)=>({name:i,fn:n(t=>[r(e.$slots,i,o(a(t||{})))])}))]),1024))}}),f=c({default:()=>p}),p=d;export{f as n,p as t};
