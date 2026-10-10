@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>OpenUPM Blog</title>
+    <description>OpenUPM project updates, package manager notes, and Unity package publishing guides.</description>
+    <link>https://openupm.com/blog/</link>
+    <lastBuildDate>Mon, 06 Jul 2026 00:00:00 GMT</lastBuildDate>
+    <language>en-US</language>
+    <item>
+      <title>Upcoming Unity Editor Change Affecting Package Compatibility: Unity 6.6 Fast Enter Play Mode</title>
+      <link>https://openupm.com/blog/unity-66-fast-enter-play-mode-package-readiness/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/unity-66-fast-enter-play-mode-package-readiness/</guid>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>Unity 6.6 enables Fast Enter Play Mode by default for new projects, so package authors should audit static state and add explicit Play Mode cleanup where needed.</description>
+    </item>
+    <item>
+      <title>OpenUPM GitHub Action Publish Wait</title>
+      <link>https://openupm.com/blog/openupm-github-action-publish-wait/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-github-action-publish-wait/</guid>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM now has an experimental GitHub Action that can trigger a package refresh from a tag or release workflow and wait until the version is published.</description>
+    </item>
+    <item>
+      <title>OpenUPM Trends Page Is Live</title>
+      <link>https://openupm.com/blog/openupm-trends-page/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-trends-page/</guid>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM now has a public trends page for package growth, release activity, signing adoption, publishing modes, downloads, and topic momentum.</description>
+    </item>
+    <item>
+      <title>Contributor Profile Pages Arrive on OpenUPM</title>
+      <link>https://openupm.com/blog/contributor-profile-badges/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/contributor-profile-badges/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM now has contributor profile pages that gather package ownership, discovery activity, profile links, and badge walls into one public profile.</description>
+    </item>
+    <item>
+      <title>UnityNuGet Package Pages Now on OpenUPM</title>
+      <link>https://openupm.com/blog/unitynuget-package-pages-now-on-openupm/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/unitynuget-package-pages-now-on-openupm/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM now generates website package pages for UnityNuGet packages, making org.nuget packages easier to find, inspect, and install from the web.</description>
+    </item>
+    <item>
+      <title>OpenUPM Recent Improvements, May 2026</title>
+      <link>https://openupm.com/blog/openupm-recent-improvements-may-2026/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-recent-improvements-may-2026/</guid>
+      <pubDate>Sun, 17 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>A short roundup of recent OpenUPM package page, build reliability, community support, and registry reliability improvements.</description>
+    </item>
+    <item>
+      <title>UnityNuGet Search Now Works Through OpenUPM</title>
+      <link>https://openupm.com/blog/unitynuget-search-now-works-through-openupm/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/unitynuget-search-now-works-through-openupm/</guid>
+      <pubDate>Fri, 15 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM&apos;s registry upgrade experimentally makes org.nuget packages visible through registry search while keeping UnityNuGet package resolution behind the OpenUPM endpoint.</description>
+    </item>
+    <item>
+      <title>OpenUPM Queue Status Page</title>
+      <link>https://openupm.com/blog/openupm-queue-status-page/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-queue-status-page/</guid>
+      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM now has a public queue status page for package scan and release build activity.</description>
+    </item>
+    <item>
+      <title>UnityNuGet Packages Are Now Code Signed</title>
+      <link>https://openupm.com/blog/unitynuget-packages-are-now-code-signed/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/unitynuget-packages-are-now-code-signed/</guid>
+      <pubDate>Wed, 13 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>UnityNuGet packages served through OpenUPM are now code signed, with daily cache verification to keep mirrored package versions current.</description>
+    </item>
+    <item>
+      <title>Signing UPM Packages with OpenUPM</title>
+      <link>https://openupm.com/blog/signing-upm-packages-with-openupm/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/signing-upm-packages-with-openupm/</guid>
+      <pubDate>Fri, 08 May 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>Unity 6.3 package signing lets package authors ship signed tarballs through GitHub Releases while OpenUPM republishes the exact artifact.</description>
+    </item>
+    <item>
+      <title>OpenUPM 2025 Recap</title>
+      <link>https://openupm.com/blog/openupm-2025-recap-6283fcd0217e/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-2025-recap-6283fcd0217e/</guid>
+      <pubDate>Fri, 02 Jan 2026 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>A year-end look at OpenUPM package submissions, downloads, release activity, fast-growing packages, and the rise of AI tooling in 2025.</description>
+    </item>
+    <item>
+      <title>OpenUPM Launches Alternative UnityNuGet Registry</title>
+      <link>https://openupm.com/blog/openupm-launches-alternative-unitynuget-registry-0b8cc663cc41/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-launches-alternative-unitynuget-registry-0b8cc663cc41/</guid>
+      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM introduces an alternate UnityNuGet hosting endpoint so Unity projects can continue resolving org.nuget packages after the Azure feed shutdown.</description>
+    </item>
+    <item>
+      <title>DigitalOcean Sponsorship 2024</title>
+      <link>https://openupm.com/blog/digitalocean-sponsorship-2024-b015451e530b/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/digitalocean-sponsorship-2024-b015451e530b/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>DigitalOcean continued its sponsorship of OpenUPM, providing credits that support the website and related infrastructure.</description>
+    </item>
+    <item>
+      <title>Host Your First Private UPM Registry in Just 15 Minutes</title>
+      <link>https://openupm.com/blog/host-your-first-private-upm-registry-in-just-15-minutes-c92d67f27de4/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/host-your-first-private-upm-registry-in-just-15-minutes-c92d67f27de4/</guid>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>A short guide for setting up a private Unity Package Manager registry with Verdaccio and a small cloud server.</description>
+    </item>
+    <item>
+      <title>OpenUPM x Hacktoberfest 2023 Round-ups</title>
+      <link>https://openupm.com/blog/openupm-x-hacktoberfest-2023-round-ups-a1d968a7894c/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-x-hacktoberfest-2023-round-ups-a1d968a7894c/</guid>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>A recap of OpenUPM&apos;s Hacktoberfest 2023 work, including package hunters, community submissions, and site improvements.</description>
+    </item>
+    <item>
+      <title>DigitalOcean Sponsorship 2022</title>
+      <link>https://openupm.com/blog/digitalocean-sponsorship-2022-c6108c451828/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/digitalocean-sponsorship-2022-c6108c451828/</guid>
+      <pubDate>Tue, 22 Mar 2022 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>DigitalOcean renewed its service sponsorship for OpenUPM in 2022, helping cover hosting costs for the project.</description>
+    </item>
+    <item>
+      <title>Registry Changes to Conform to .NET Standard 2.1 Shipped with Unity 2021.2</title>
+      <link>https://openupm.com/blog/registry-changes-to-conform-to-net-standard-2-1-shipped-with-unity-2021-2-1e9753d49826/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/registry-changes-to-conform-to-net-standard-2-1-shipped-with-unity-2021-2-1e9753d49826/</guid>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>Unity 2021.2 moved to .NET Standard 2.1, requiring OpenUPM and UnityNuGet cache changes for affected NuGet-derived packages.</description>
+    </item>
+    <item>
+      <title>OpenUPM Uplinks to the UnityNuGet Registry</title>
+      <link>https://openupm.com/blog/openupm-uplinks-to-the-unitynuget-registry-5bb235ff484e/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-uplinks-to-the-unitynuget-registry-5bb235ff484e/</guid>
+      <pubDate>Tue, 04 May 2021 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM adds an experimental uplink to UnityNuGet so packages under the org.nuget scope can be resolved through the OpenUPM registry.</description>
+    </item>
+    <item>
+      <title>DigitalOcean Sponsorship &amp; Our Server Infrastructure</title>
+      <link>https://openupm.com/blog/digitalocean-sponsorship-our-server-infrastructure-d1019b84d71c/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/digitalocean-sponsorship-our-server-infrastructure-d1019b84d71c/</guid>
+      <pubDate>Wed, 10 Mar 2021 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM announces DigitalOcean sponsorship and describes the public service infrastructure at a high level.</description>
+    </item>
+    <item>
+      <title>OpenUPM China Region and JD Cloud &amp; AI Sponsorship</title>
+      <link>https://openupm.com/blog/openupm-china-region-and-jd-cloud-ai-sponsorship-70ed70d44597/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-china-region-and-jd-cloud-ai-sponsorship-70ed70d44597/</guid>
+      <pubDate>Thu, 03 Dec 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>OpenUPM announces the China region, sponsored by JD Cloud &amp; AI, with localized docs, metadata, registry mirroring, and CLI support.</description>
+    </item>
+    <item>
+      <title>How to Authenticate with a UPM Scoped Registry using CLI</title>
+      <link>https://openupm.com/blog/how-to-authenticate-with-a-upm-scoped-registry-using-cli-afc29c13a2f8/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/how-to-authenticate-with-a-upm-scoped-registry-using-cli-afc29c13a2f8/</guid>
+      <pubDate>Sun, 02 Aug 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>A practical walkthrough of using openupm-cli to write Unity scoped registry authentication into .upmconfig.toml.</description>
+    </item>
+    <item>
+      <title>Unity Package Manager 2020.1 Round-up</title>
+      <link>https://openupm.com/blog/unity-package-manager-2020-1-round-up-54a1d32c60fc/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/unity-package-manager-2020-1-round-up-54a1d32c60fc/</guid>
+      <pubDate>Wed, 29 Jul 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>Unity 2020.1 updates Package Manager UI, package source filters, scoped registry auth, Git package subfolders, and package-lock.json.</description>
+    </item>
+    <item>
+      <title>How to Maintain UPM Package Part 4: Managing Package Release with CLI</title>
+      <link>https://openupm.com/blog/how-to-maintain-upm-package-part-4-managing-package-release-with-cli-972ff5311163/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/how-to-maintain-upm-package-part-4-managing-package-release-with-cli-972ff5311163/</guid>
+      <pubDate>Sun, 31 May 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>The fourth package maintenance article covers release-it as a CLI-driven alternative for authors who prefer controlled releases.</description>
+    </item>
+    <item>
+      <title>OpenUPM Round-up</title>
+      <link>https://openupm.com/blog/openupm-round-up-72796259b288/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-round-up-72796259b288/</guid>
+      <pubDate>Sun, 10 May 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>A 2020 OpenUPM progress update covering package counts, package hunters, pending labels, RSS feeds, layout changes, sorting, and README support.</description>
+    </item>
+    <item>
+      <title>How to Maintain UPM Package Part 3: Managing a Forked Repository</title>
+      <link>https://openupm.com/blog/how-to-maintain-upm-package-part-3-2d08294269ad/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/how-to-maintain-upm-package-part-3-2d08294269ad/</guid>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>The third package maintenance article explains how to manage forked repositories, sync upstream changes, and preserve useful versioning.</description>
+    </item>
+    <item>
+      <title>How to Maintain UPM Package Part 2: Automating Releases with GitHub Actions</title>
+      <link>https://openupm.com/blog/how-to-maintain-upm-package-part-2-f352fbf5f87c/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/how-to-maintain-upm-package-part-2-f352fbf5f87c/</guid>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>The second package maintenance article explains semantic versioning and automated releases with semantic-release and GitHub Actions.</description>
+    </item>
+    <item>
+      <title>Unity Package Manager 2019.3 Round-up</title>
+      <link>https://openupm.com/blog/unity-package-manager-2019-3-round-up-8a663ad06bfe/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/unity-package-manager-2019-3-round-up-8a663ad06bfe/</guid>
+      <pubDate>Thu, 16 Jan 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>Unity 2019.3 brought package tarball installation, Git URL installation, Package Manager asset views, and delayed authoring features.</description>
+    </item>
+    <item>
+      <title>How to Maintain UPM Package Part 1</title>
+      <link>https://openupm.com/blog/how-to-maintain-upm-package-part-1-7b4daf88d4c4/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/how-to-maintain-upm-package-part-1-7b4daf88d4c4/</guid>
+      <pubDate>Tue, 14 Jan 2020 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>The first package maintenance article compares UPM repository layouts and shows how to create an upm branch with GitHub Actions.</description>
+    </item>
+    <item>
+      <title>OpenUPM Beta is Now Available</title>
+      <link>https://openupm.com/blog/openupm-beta-is-now-available-a6665ff60c71/</link>
+      <guid isPermaLink="true">https://openupm.com/blog/openupm-beta-is-now-available-a6665ff60c71/</guid>
+      <pubDate>Sun, 29 Dec 2019 00:00:00 GMT</pubDate>
+      <dc:creator>Favo Yang</dc:creator>
+      <description>The original OpenUPM beta announcement describes the managed registry, automatic build pipelines, open package submission model, and early goals.</description>
+    </item>
+  </channel>
+</rss>
