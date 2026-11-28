@@ -1,0 +1,1 @@
+var e={list:`https://link.littlebigfun.com/kie-list`,grid:`https://link.littlebigfun.com/kie-grid`,ai:`https://link.littlebigfun.com/kie-ai`};export{e as t};
